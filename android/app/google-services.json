@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "683152386949",
+    "project_id": "echoverseapp-29b6b",
+    "storage_bucket": "echoverseapp-29b6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683152386949:android:53fd84731bf2bc3d51b2ec",
+        "android_client_info": {
+          "package_name": "com.example.echoversetwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683152386949-q6btccgl6t4uqe1v5n0f7q08mtm5vbsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.echoversetwo",
+            "certificate_hash": "f0b5e5d76b33ef03e73d8f071f5ead34149bc79b"
+          }
+        },
+        {
+          "client_id": "683152386949-oh26d7aj63nr0f63to5gs67f5hvj6228.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOuOI6G8US0O7tv-OtfoXYxUP6sDgDbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683152386949-oh26d7aj63nr0f63to5gs67f5hvj6228.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
